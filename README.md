@@ -20,3 +20,5 @@ A simple student portal developed using HTML, CSS and JavaScript.
 
 ## Author
 Your Name
+# My-Final-year-project
+My first student portal project using HTML, CSS and JavaScript.
